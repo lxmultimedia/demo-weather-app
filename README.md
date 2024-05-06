@@ -7,4 +7,4 @@ Please register first for a API trial (https://developer.accuweather.com/) and u
 
 \
 \
-Demo: https://www.lxmcloud.tk/weatherapp
+Demo: https://cloud.ozona.ch/weatherapp
